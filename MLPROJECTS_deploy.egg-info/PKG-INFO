@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: MLPROJECTS_deploy
+Version: 0.1
+Author: vamshi
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
